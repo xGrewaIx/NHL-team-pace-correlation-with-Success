@@ -1,0 +1,8 @@
+Column,slope,rValue,pValue,pValue_significant,r_>_0.0,r_>_0.2,r_>_0.4,r_>_0.6,pos or neg relationship
+home_o_zone_faceoff_pct,0.0028952536748178925,0.1158866204994602,2.578975990761813e-05,yes,yes,no,no,no,positive
+home_d_zone_faceoff_pct,0.0031194771983461553,0.12587801730352746,4.79983037567306e-06,yes,yes,no,no,no,positive
+home_n_zone_faceoff_pct,0.0020494136448926978,0.08469006085271874,0.002139171625834497,yes,yes,no,no,no,positive
+corsi_home,1.4324232088322655,0.7812167683411647,2.3928643095050293e-270,yes,yes,yes,yes,yes,positive
+fenwick_home,1.1904188674489606,0.8796877393423359,0.0,yes,yes,yes,yes,yes,positive
+corsi_home_%,0.008087700855739273,0.5648278532188055,1.9463363769931572e-111,yes,yes,yes,yes,no,positive
+fenwick_home_%,0.009176562497352712,0.6324455180571275,1.7249541150868324e-147,yes,yes,yes,yes,yes,positive
